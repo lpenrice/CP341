@@ -1,0 +1,226 @@
+﻿Continent,Country,Quantity (per 1000 hl)
+Global,Global, 262 107
+Europe,Italy, 49 843
+Europe,France, 45 817
+Europe,Spain, 35 703
+America,United States of America, 22 385
+Oceania,Australia, 13 070
+America,Chile, 12 443
+America,Argentina, 11 451
+Africa,South Africa, 10 337
+Europe,Germany, 8 940
+Europe,Portugal, 6 848
+Europe,Russia, 4 888
+Asia,"China, mainland", 4 182
+Oceania,New Zealand, 3 830
+Europe,Romania, 3 788
+America,Brazil, 3 200
+Europe,Austria, 2 527
+Europe,Hungary, 2 484
+Asia,Georgia, 2 135
+Europe,Greece, 2 084
+Europe,Moldova, 1 400
+Europe,Switzerland,  992
+Europe,Republic of North Macedonia,  936
+America,Peru,  810
+Asia,Japan,  805
+Europe,Bulgaria,  794
+America,Uruguay,  756
+Europe,Croatia,  726
+Europe,Serbia,  705
+Europe,Ukraine,  660
+America,Canada,  656
+Asia,Republic of Türkiye,  622
+Europe,Czech Republic,  586
+Europe,Slovenia,  546
+Asia,Turkmenistan,  498
+Asia,Israel,  430
+Africa,Morocco,  409
+America,Mexico,  396
+Africa,Tunisia,  350
+Europe,Slovakia,  332
+Europe,Belarus,  304
+Asia,Kazakhstan,  233
+Europe,Albania,  228
+Asia,Uzbekistan,  218
+Africa,Algeria,  193
+Asia,India,  180
+America,Cuba,  131
+Asia,Armenia,  122
+Asia,Azerbaijan,  117
+Europe,Estonia,  110
+Europe,Cyprus,  108
+Asia,Lebanon,  100
+Europe,United Kingdom,  91
+Europe,Luxemburg,  86
+America,Bolivia,  84
+Africa,Madagascar,  78
+Europe,Montenegro,  70
+Europe,Bosnia and Herzegovina,  69
+Africa,Egypt,  53
+Europe,Lithuania,  32
+Europe,Belgium,  30
+Europe,Latvia,  20
+America,Paraguay,  17
+Asia,Kyrgyzstan,  14
+Africa,Zimbabwe,  14
+Europe,Malta,  13
+Europe,Netherlands,  10
+Africa,Ethiopia,  8
+Europe,Poland,  5
+Asia,Tajikistan,  2
+Europe,Denmark,  1
+America,Panama,  1
+Asia,Afghanistan,0
+Oceania,American Samoa,0
+Europe,Andorra,0
+Africa,Angola,0
+America,Antigua and Barbuda,0
+America,Aruba,0
+America,Bahamas,0
+Asia,Bahrain,0
+Asia,Bangladesh,0
+America,Barbados,0
+Europe,Belgium and Luxemburg,0
+America,Belize,0
+Africa,Benin,0
+America,Bermuda,0
+Asia,Bhutan,0
+Africa,Botswana,0
+Asia,Brunei Darussalam,0
+Africa,Burkina Faso,0
+Africa,Burundi,0
+Africa,Cabo Verde,0
+Asia,Cambodia,0
+Africa,Cameroon,0
+America,Cayman Islands,0
+Africa,Central African Republic,0
+Africa,Chad,0
+Asia,"China, Hong Kong SAR",0
+Asia,"China, Macao SAR",0
+Asia,"China, Taiwan Province of",0
+America,Colombia,0
+Africa,Comoros,0
+Africa,Congo,0
+Africa,Congo (the Democratic Republic of the),0
+Oceania,Cook Islands,0
+America,Costa Rica,0
+Africa,Côte d'Ivoire,0
+Africa,Djibouti,0
+America,Dominica,0
+America,Dominican Republic,0
+America,Ecuador,0
+America,El Salvador,0
+Africa,Equatorial Guinea,0
+Africa,Eritrea,0
+Africa,Eswatini,0
+Europe,Faroe Islands,0
+Oceania,Fiji,0
+Europe,Finland,0
+America,French Guiana,0
+Oceania,French Polynesia,0
+Africa,Gabon,0
+Africa,Gambia,0
+Africa,Ghana,0
+America,Greenland,0
+America,Grenada,0
+America,Guadeloupe,0
+Oceania,Guam,0
+Africa,Guinea,0
+Africa,Guinea-Bissau,0
+America,Guyana,0
+America,Haiti,0
+America,Honduras,0
+Asia,Indonesia,0
+Asia,Iran,0
+Asia,Iraq,0
+Europe,Ireland,0
+America,Jamaica,0
+Asia,Jordan,0
+Africa,Kenya,0
+Oceania,Kiribati,0
+Asia,Korea (the Democratic People's Republic of),0
+Asia,Korea (the Republic of),0
+Asia,Kuwait,0
+Asia,Lao People's Democratic Republic,0
+Africa,Lesotho,0
+Africa,Liberia,0
+Africa,Libya,0
+Europe,Liechtenstein,0
+Africa,Malawi,0
+Asia,Malaysia,0
+Asia,Maldives,0
+Africa,Mali,0
+Oceania,Marshall Islands,0
+America,Martinique,0
+Africa,Mauritania,0
+Africa,Mauritius,0
+Oceania,Micronesia,0
+Europe,Monaco,0
+Asia,Mongolia,0
+America,Montserrat,0
+Africa,Mozambique,0
+Asia,Myanmar,0
+Africa,Namibia,0
+Oceania,Nauru,0
+Asia,Nepal,0
+America,Netherlands Antilles,0
+Oceania,New Caledonia,0
+America,Nicaragua,0
+Africa,Niger,0
+Africa,Nigeria,0
+Oceania,Niue,0
+Oceania,Norfolk Island,0
+Europe,Norway,0
+Asia,Oman,0
+Asia,Pakistan,0
+Oceania,Palau,0
+Oceania,Papua New Guinea,0
+Asia,Philippines,0
+Asia,Qatar,0
+Africa,Reunion island,0
+Africa,Rwanda,0
+Africa,Saint Helena,0
+America,Saint Kitts and Nevis,0
+America,Saint Lucia,0
+America,Saint Pierre And Miquelon,0
+America,Saint Vincent and the Grenadines,0
+Oceania,Samoa,0
+Europe,San Marino,0
+Africa,Sao Tome and Principe,0
+Asia,Saudi Arabia,0
+Africa,Senegal,0
+Europe,Serbia And Montenegro,0
+Africa,Seychelles,0
+Africa,Sierra Leone,0
+Asia,Singapore,0
+Oceania,Solomon Islands,0
+Africa,Somalia,0
+Africa,South Sudan,0
+Asia,Sri Lanka,0
+Asia,State of Palestine,0
+Africa,Sudan,0
+America,Suriname,0
+Europe,Sweden,0
+Asia,Syrian Arab Republic,0
+Africa,"Tanzania, the United Republic of",0
+Asia,Thailand,0
+Asia,Timor-Leste,0
+Africa,Togo,0
+Oceania,Tonga,0
+America,Trinidad and Tobago,0
+Oceania,Tuvalu,0
+Africa,Uganda,0
+Asia,United Arab Emirates,0
+Oceania,Vanuatu,0
+America,Venezuela,0
+Asia,Vietnam,0
+America,Virgin Islands,0
+Asia,Yemen,0
+Africa,Zambia,0
+,,
+"Applied filters:
+Language is EN
+Product is Wine
+Variable is Production
+Year is 2022",,

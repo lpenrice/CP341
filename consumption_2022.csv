@@ -1,0 +1,205 @@
+﻿Continent,Country,Quantity (per 1000 hl)
+Global,Global, 231 600
+America,United States of America, 34 344
+Europe,France, 24 872
+Europe,Italy, 22 300
+Europe,Germany, 19 400
+Europe,United Kingdom, 12 834
+Europe,Spain, 9 767
+Asia,"China, mainland", 8 815
+Europe,Russia, 8 394
+America,Argentina, 8 276
+Europe,Portugal, 6 022
+Oceania,Australia, 5 337
+Africa,South Africa, 4 550
+America,Canada, 4 200
+Europe,Netherlands, 3 622
+America,Brazil, 3 590
+Asia,Japan, 2 945
+Europe,Romania, 2 498
+Europe,Switzerland, 2 372
+Europe,Austria, 2 350
+America,Chile, 2 280
+Europe,Czech Republic, 2 190
+Europe,Belgium, 2 023
+Europe,Sweden, 1 993
+Europe,Greece, 1 940
+Europe,Hungary, 1 705
+Europe,Denmark, 1 526
+Europe,Poland, 1 396
+Asia,Georgia, 1 203
+Europe,Ukraine, 1 084
+America,Mexico, 1 080
+Europe,Croatia,  961
+Europe,Belarus,  960
+America,Peru,  915
+Oceania,New Zealand,  895
+Asia,Republic of Türkiye,  775
+Europe,Ireland,  763
+Asia,Korea (the Republic of),  740
+Europe,Slovenia,  674
+Europe,Norway,  660
+America,Uruguay,  591
+Africa,Côte d'Ivoire,  581
+Europe,Bulgaria,  521
+Asia,Turkmenistan,  502
+Europe,Serbia,  472
+Asia,Kazakhstan,  459
+Europe,Slovakia,  428
+Africa,Morocco,  391
+Africa,Namibia,  379
+Europe,Moldova,  329
+Africa,Angola,  317
+Europe,Albania,  315
+Europe,Lithuania,  310
+Asia,"China, Hong Kong SAR",  307
+Africa,Algeria,  289
+Africa,Nigeria,  279
+Europe,Estonia,  277
+America,Paraguay,  264
+Europe,Republic of North Macedonia,  263
+Europe,Luxemburg,  255
+America,Colombia,  233
+Europe,Finland,  232
+Asia,Philippines,  228
+Asia,India,  217
+Asia,"China, Taiwan Province of",  196
+Africa,Tunisia,  173
+Asia,Uzbekistan,  163
+America,Cuba,  159
+Asia,Singapore,  157
+Europe,Cyprus,  153
+Africa,Cameroon,  136
+Europe,Bosnia and Herzegovina,  119
+Africa,Burkina Faso,  114
+America,Costa Rica,  107
+America,Ecuador,  100
+Africa,Guinea-Bissau,  100
+Asia,Armenia,  98
+America,Bolivia,  90
+Europe,Latvia,  90
+Africa,Madagascar,  83
+Asia,Lebanon,  82
+America,Dominican Republic,  81
+Africa,Kenya,  71
+Africa,Cabo Verde,  68
+Africa,Ghana,  68
+Europe,Malta,  66
+Asia,Malaysia,  62
+Asia,Vietnam,  58
+Africa,Egypt,  55
+Africa,Gabon,  54
+America,Grenada,  54
+Africa,Senegal,  54
+Europe,Iceland,  50
+Africa,Botswana,  46
+America,Jamaica,  45
+Oceania,New Caledonia,  44
+Asia,Azerbaijan,  43
+Asia,Israel,  38
+America,Bahamas,  37
+Europe,Montenegro,  37
+Asia,"China, Macao SAR",  36
+Africa,Congo (the Democratic Republic of the),  33
+Africa,Sao Tome and Principe,  32
+Asia,Kyrgyzstan,  30
+Africa,"Tanzania, the United Republic of",  29
+Oceania,Papua New Guinea,  27
+Africa,Zambia,  27
+America,Barbados,  26
+America,El Salvador,  26
+Oceania,French Polynesia,  26
+Asia,Indonesia,  25
+Africa,Mozambique,  24
+America,Venezuela,  24
+Africa,Benin,  23
+Africa,Congo,  22
+Asia,Maldives,  22
+America,Saint Lucia,  22
+Africa,Zimbabwe,  22
+America,Honduras,  20
+Africa,Mali,  19
+America,Haiti,  18
+Asia,Mongolia,  18
+Africa,Rwanda,  17
+Africa,Seychelles,  17
+Asia,Lao People's Democratic Republic,  16
+Africa,Mauritius,  16
+America,Antigua and Barbuda,  15
+Asia,Bahrain,  15
+America,Bermuda,  15
+Africa,Lesotho,  15
+America,Belize,  13
+Oceania,Fiji,  13
+Asia,Cambodia,  12
+Africa,Uganda,  12
+America,Nicaragua,  11
+America,Panama,  11
+Asia,Sri Lanka,  11
+America,Trinidad and Tobago,  11
+Asia,Iraq,  10
+Africa,Niger,  10
+Asia,Thailand,  10
+Africa,Guinea,  9
+America,Suriname,  9
+Africa,Ethiopia,  8
+Africa,Liberia,  8
+Asia,Nepal,  7
+America,Greenland,  6
+Oceania,Vanuatu,  6
+Europe,Faroe Islands,  5
+Africa,Burundi,  4
+Africa,Central African Republic,  4
+Africa,Eswatini,  4
+Asia,Tajikistan,  4
+Africa,Comoros,  3
+America,Guyana,  3
+Asia,Jordan,  3
+America,Saint Vincent and the Grenadines,  3
+Africa,Sierra Leone,  3
+Africa,Sudan,  3
+Africa,Chad,  2
+Oceania,Cook Islands,  2
+Africa,Djibouti,  2
+America,French Guiana,  2
+Africa,Malawi,  2
+America,Saint Kitts and Nevis,  2
+America,Saint Pierre And Miquelon,  2
+Asia,Afghanistan,  1
+Oceania,American Samoa,  1
+Asia,Bangladesh,  1
+America,Dominica,  1
+Africa,Libya,  1
+Asia,Myanmar,  1
+Oceania,Samoa,  1
+Oceania,Solomon Islands,  1
+Asia,Syrian Arab Republic,  1
+Oceania,Tonga,  1
+Asia,Brunei Darussalam,0
+Africa,Gambia,0
+America,Guadeloupe,0
+Oceania,Guam,0
+Asia,Iran,0
+Oceania,Kiribati,0
+America,Martinique,0
+Africa,Mauritania,0
+America,Montserrat,0
+Oceania,Nauru,0
+America,Netherlands Antilles,0
+Oceania,Niue,0
+Asia,Pakistan,0
+Africa,Reunion island,0
+Africa,Saint Helena,0
+Asia,Saudi Arabia,0
+Africa,Somalia,0
+Asia,State of Palestine,0
+Asia,Timor-Leste,0
+Africa,Togo,0
+Oceania,Tuvalu,0
+Asia,Yemen,0
+,,
+"Applied filters:
+Language is EN
+Product is Wine
+Variable is Consumption
+Year is 2022",,
