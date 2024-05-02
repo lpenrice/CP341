@@ -1,0 +1,418 @@
+﻿Continent,Country,Variable,Quantity (per 1000 hl)
+Asia,Afghanistan,Consumption,  1
+Asia,Afghanistan,Production,0
+Europe,Albania,Consumption,  315
+Europe,Albania,Production,  228
+Africa,Algeria,Consumption,  289
+Africa,Algeria,Production,  193
+Oceania,American Samoa,Consumption,  1
+Oceania,American Samoa,Production,0
+Europe,Andorra,Production,0
+Africa,Angola,Consumption,  317
+Africa,Angola,Production,0
+America,Antigua and Barbuda,Consumption,  15
+America,Antigua and Barbuda,Production,0
+America,Argentina,Consumption, 8 276
+America,Argentina,Production, 11 451
+Asia,Armenia,Consumption,  98
+Asia,Armenia,Production,  122
+America,Aruba,Production,0
+Oceania,Australia,Consumption, 5 337
+Oceania,Australia,Production, 13 070
+Europe,Austria,Consumption, 2 350
+Europe,Austria,Production, 2 527
+Asia,Azerbaijan,Consumption,  43
+Asia,Azerbaijan,Production,  117
+America,Bahamas,Consumption,  37
+America,Bahamas,Production,0
+Asia,Bahrain,Consumption,  15
+Asia,Bahrain,Production,0
+Asia,Bangladesh,Consumption,  1
+Asia,Bangladesh,Production,0
+America,Barbados,Consumption,  26
+America,Barbados,Production,0
+Europe,Belarus,Consumption,  960
+Europe,Belarus,Production,  304
+Europe,Belgium,Consumption, 2 023
+Europe,Belgium,Production,  30
+Europe,Belgium and Luxemburg,Production,0
+America,Belize,Consumption,  13
+America,Belize,Production,0
+Africa,Benin,Consumption,  23
+Africa,Benin,Production,0
+America,Bermuda,Consumption,  15
+America,Bermuda,Production,0
+Asia,Bhutan,Production,0
+America,Bolivia,Consumption,  90
+America,Bolivia,Production,  84
+Europe,Bosnia and Herzegovina,Consumption,  119
+Europe,Bosnia and Herzegovina,Production,  69
+Africa,Botswana,Consumption,  46
+Africa,Botswana,Production,0
+America,Brazil,Consumption, 3 590
+America,Brazil,Production, 3 200
+Asia,Brunei Darussalam,Consumption,0
+Asia,Brunei Darussalam,Production,0
+Europe,Bulgaria,Consumption,  521
+Europe,Bulgaria,Production,  794
+Africa,Burkina Faso,Consumption,  114
+Africa,Burkina Faso,Production,0
+Africa,Burundi,Consumption,  4
+Africa,Burundi,Production,0
+Africa,Cabo Verde,Consumption,  68
+Africa,Cabo Verde,Production,0
+Asia,Cambodia,Consumption,  12
+Asia,Cambodia,Production,0
+Africa,Cameroon,Consumption,  136
+Africa,Cameroon,Production,0
+America,Canada,Consumption, 4 200
+America,Canada,Production,  656
+America,Cayman Islands,Production,0
+Africa,Central African Republic,Consumption,  4
+Africa,Central African Republic,Production,0
+Africa,Chad,Consumption,  2
+Africa,Chad,Production,0
+America,Chile,Consumption, 2 280
+America,Chile,Production, 12 443
+Asia,"China, Hong Kong SAR",Consumption,  307
+Asia,"China, Hong Kong SAR",Production,0
+Asia,"China, Macao SAR",Consumption,  36
+Asia,"China, Macao SAR",Production,0
+Asia,"China, mainland",Consumption, 8 815
+Asia,"China, mainland",Production, 4 182
+Asia,"China, Taiwan Province of",Consumption,  196
+Asia,"China, Taiwan Province of",Production,0
+America,Colombia,Consumption,  233
+America,Colombia,Production,0
+Africa,Comoros,Consumption,  3
+Africa,Comoros,Production,0
+Africa,Congo,Consumption,  22
+Africa,Congo,Production,0
+Africa,Congo (the Democratic Republic of the),Consumption,  33
+Africa,Congo (the Democratic Republic of the),Production,0
+Oceania,Cook Islands,Consumption,  2
+Oceania,Cook Islands,Production,0
+America,Costa Rica,Consumption,  107
+America,Costa Rica,Production,0
+Africa,Côte d'Ivoire,Consumption,  581
+Africa,Côte d'Ivoire,Production,0
+Europe,Croatia,Consumption,  961
+Europe,Croatia,Production,  726
+America,Cuba,Consumption,  159
+America,Cuba,Production,  131
+Europe,Cyprus,Consumption,  153
+Europe,Cyprus,Production,  108
+Europe,Czech Republic,Consumption, 2 190
+Europe,Czech Republic,Production,  586
+Europe,Denmark,Consumption, 1 526
+Europe,Denmark,Production,  1
+Africa,Djibouti,Consumption,  2
+Africa,Djibouti,Production,0
+America,Dominica,Consumption,  1
+America,Dominica,Production,0
+America,Dominican Republic,Consumption,  81
+America,Dominican Republic,Production,0
+America,Ecuador,Consumption,  100
+America,Ecuador,Production,0
+Africa,Egypt,Consumption,  55
+Africa,Egypt,Production,  53
+America,El Salvador,Consumption,  26
+America,El Salvador,Production,0
+Africa,Equatorial Guinea,Production,0
+Africa,Eritrea,Production,0
+Europe,Estonia,Consumption,  277
+Europe,Estonia,Production,  110
+Africa,Eswatini,Consumption,  4
+Africa,Eswatini,Production,0
+Africa,Ethiopia,Consumption,  8
+Africa,Ethiopia,Production,  8
+Europe,Faroe Islands,Consumption,  5
+Europe,Faroe Islands,Production,0
+Oceania,Fiji,Consumption,  13
+Oceania,Fiji,Production,0
+Europe,Finland,Consumption,  232
+Europe,Finland,Production,0
+Europe,France,Consumption, 24 872
+Europe,France,Production, 45 817
+America,French Guiana,Consumption,  2
+America,French Guiana,Production,0
+Oceania,French Polynesia,Consumption,  26
+Oceania,French Polynesia,Production,0
+Africa,Gabon,Consumption,  54
+Africa,Gabon,Production,0
+Africa,Gambia,Consumption,0
+Africa,Gambia,Production,0
+Asia,Georgia,Consumption, 1 203
+Asia,Georgia,Production, 2 135
+Europe,Germany,Consumption, 19 400
+Europe,Germany,Production, 8 940
+Africa,Ghana,Consumption,  68
+Africa,Ghana,Production,0
+Global,Global,Consumption, 231 600
+Global,Global,Production, 262 107
+Europe,Greece,Consumption, 1 940
+Europe,Greece,Production, 2 084
+America,Greenland,Consumption,  6
+America,Greenland,Production,0
+America,Grenada,Consumption,  54
+America,Grenada,Production,0
+America,Guadeloupe,Consumption,0
+America,Guadeloupe,Production,0
+Oceania,Guam,Consumption,0
+Oceania,Guam,Production,0
+Africa,Guinea,Consumption,  9
+Africa,Guinea,Production,0
+Africa,Guinea-Bissau,Consumption,  100
+Africa,Guinea-Bissau,Production,0
+America,Guyana,Consumption,  3
+America,Guyana,Production,0
+America,Haiti,Consumption,  18
+America,Haiti,Production,0
+America,Honduras,Consumption,  20
+America,Honduras,Production,0
+Europe,Hungary,Consumption, 1 705
+Europe,Hungary,Production, 2 484
+Europe,Iceland,Consumption,  50
+Asia,India,Consumption,  217
+Asia,India,Production,  180
+Asia,Indonesia,Consumption,  25
+Asia,Indonesia,Production,0
+Asia,Iran,Consumption,0
+Asia,Iran,Production,0
+Asia,Iraq,Consumption,  10
+Asia,Iraq,Production,0
+Europe,Ireland,Consumption,  763
+Europe,Ireland,Production,0
+Asia,Israel,Consumption,  38
+Asia,Israel,Production,  430
+Europe,Italy,Consumption, 22 300
+Europe,Italy,Production, 49 843
+America,Jamaica,Consumption,  45
+America,Jamaica,Production,0
+Asia,Japan,Consumption, 2 945
+Asia,Japan,Production,  805
+Asia,Jordan,Consumption,  3
+Asia,Jordan,Production,0
+Asia,Kazakhstan,Consumption,  459
+Asia,Kazakhstan,Production,  233
+Africa,Kenya,Consumption,  71
+Africa,Kenya,Production,0
+Oceania,Kiribati,Consumption,0
+Oceania,Kiribati,Production,0
+Asia,Korea (the Democratic People's Republic of),Production,0
+Asia,Korea (the Republic of),Consumption,  740
+Asia,Korea (the Republic of),Production,0
+Asia,Kuwait,Production,0
+Asia,Kyrgyzstan,Consumption,  30
+Asia,Kyrgyzstan,Production,  14
+Asia,Lao People's Democratic Republic,Consumption,  16
+Asia,Lao People's Democratic Republic,Production,0
+Europe,Latvia,Consumption,  90
+Europe,Latvia,Production,  20
+Asia,Lebanon,Consumption,  82
+Asia,Lebanon,Production,  100
+Africa,Lesotho,Consumption,  15
+Africa,Lesotho,Production,0
+Africa,Liberia,Consumption,  8
+Africa,Liberia,Production,0
+Africa,Libya,Consumption,  1
+Africa,Libya,Production,0
+Europe,Liechtenstein,Production,0
+Europe,Lithuania,Consumption,  310
+Europe,Lithuania,Production,  32
+Europe,Luxemburg,Consumption,  255
+Europe,Luxemburg,Production,  86
+Africa,Madagascar,Consumption,  83
+Africa,Madagascar,Production,  78
+Africa,Malawi,Consumption,  2
+Africa,Malawi,Production,0
+Asia,Malaysia,Consumption,  62
+Asia,Malaysia,Production,0
+Asia,Maldives,Consumption,  22
+Asia,Maldives,Production,0
+Africa,Mali,Consumption,  19
+Africa,Mali,Production,0
+Europe,Malta,Consumption,  66
+Europe,Malta,Production,  13
+Oceania,Marshall Islands,Production,0
+America,Martinique,Consumption,0
+America,Martinique,Production,0
+Africa,Mauritania,Consumption,0
+Africa,Mauritania,Production,0
+Africa,Mauritius,Consumption,  16
+Africa,Mauritius,Production,0
+America,Mexico,Consumption, 1 080
+America,Mexico,Production,  396
+Oceania,Micronesia,Production,0
+Europe,Moldova,Consumption,  329
+Europe,Moldova,Production, 1 400
+Europe,Monaco,Production,0
+Asia,Mongolia,Consumption,  18
+Asia,Mongolia,Production,0
+Europe,Montenegro,Consumption,  37
+Europe,Montenegro,Production,  70
+America,Montserrat,Consumption,0
+America,Montserrat,Production,0
+Africa,Morocco,Consumption,  391
+Africa,Morocco,Production,  409
+Africa,Mozambique,Consumption,  24
+Africa,Mozambique,Production,0
+Asia,Myanmar,Consumption,  1
+Asia,Myanmar,Production,0
+Africa,Namibia,Consumption,  379
+Africa,Namibia,Production,0
+Oceania,Nauru,Consumption,0
+Oceania,Nauru,Production,0
+Asia,Nepal,Consumption,  7
+Asia,Nepal,Production,0
+Europe,Netherlands,Consumption, 3 622
+Europe,Netherlands,Production,  10
+America,Netherlands Antilles,Consumption,0
+America,Netherlands Antilles,Production,0
+Oceania,New Caledonia,Consumption,  44
+Oceania,New Caledonia,Production,0
+Oceania,New Zealand,Consumption,  895
+Oceania,New Zealand,Production, 3 830
+America,Nicaragua,Consumption,  11
+America,Nicaragua,Production,0
+Africa,Niger,Consumption,  10
+Africa,Niger,Production,0
+Africa,Nigeria,Consumption,  279
+Africa,Nigeria,Production,0
+Oceania,Niue,Consumption,0
+Oceania,Niue,Production,0
+Oceania,Norfolk Island,Production,0
+Europe,Norway,Consumption,  660
+Europe,Norway,Production,0
+Asia,Oman,Production,0
+Asia,Pakistan,Consumption,0
+Asia,Pakistan,Production,0
+Oceania,Palau,Production,0
+America,Panama,Consumption,  11
+America,Panama,Production,  1
+Oceania,Papua New Guinea,Consumption,  27
+Oceania,Papua New Guinea,Production,0
+America,Paraguay,Consumption,  264
+America,Paraguay,Production,  17
+America,Peru,Consumption,  915
+America,Peru,Production,  810
+Asia,Philippines,Consumption,  228
+Asia,Philippines,Production,0
+Europe,Poland,Consumption, 1 396
+Europe,Poland,Production,  5
+Europe,Portugal,Consumption, 6 022
+Europe,Portugal,Production, 6 848
+Asia,Qatar,Production,0
+Europe,Republic of North Macedonia,Consumption,  263
+Europe,Republic of North Macedonia,Production,  936
+Asia,Republic of Türkiye,Consumption,  775
+Asia,Republic of Türkiye,Production,  622
+Africa,Reunion island,Consumption,0
+Africa,Reunion island,Production,0
+Europe,Romania,Consumption, 2 498
+Europe,Romania,Production, 3 788
+Europe,Russia,Consumption, 8 394
+Europe,Russia,Production, 4 888
+Africa,Rwanda,Consumption,  17
+Africa,Rwanda,Production,0
+Africa,Saint Helena,Consumption,0
+Africa,Saint Helena,Production,0
+America,Saint Kitts and Nevis,Consumption,  2
+America,Saint Kitts and Nevis,Production,0
+America,Saint Lucia,Consumption,  22
+America,Saint Lucia,Production,0
+America,Saint Pierre And Miquelon,Consumption,  2
+America,Saint Pierre And Miquelon,Production,0
+America,Saint Vincent and the Grenadines,Consumption,  3
+America,Saint Vincent and the Grenadines,Production,0
+Oceania,Samoa,Consumption,  1
+Oceania,Samoa,Production,0
+Europe,San Marino,Production,0
+Africa,Sao Tome and Principe,Consumption,  32
+Africa,Sao Tome and Principe,Production,0
+Asia,Saudi Arabia,Consumption,0
+Asia,Saudi Arabia,Production,0
+Africa,Senegal,Consumption,  54
+Africa,Senegal,Production,0
+Europe,Serbia,Consumption,  472
+Europe,Serbia,Production,  705
+Europe,Serbia And Montenegro,Production,0
+Africa,Seychelles,Consumption,  17
+Africa,Seychelles,Production,0
+Africa,Sierra Leone,Consumption,  3
+Africa,Sierra Leone,Production,0
+Asia,Singapore,Consumption,  157
+Asia,Singapore,Production,0
+Europe,Slovakia,Consumption,  428
+Europe,Slovakia,Production,  332
+Europe,Slovenia,Consumption,  674
+Europe,Slovenia,Production,  546
+Oceania,Solomon Islands,Consumption,  1
+Oceania,Solomon Islands,Production,0
+Africa,Somalia,Consumption,0
+Africa,Somalia,Production,0
+Africa,South Africa,Consumption, 4 550
+Africa,South Africa,Production, 10 337
+Africa,South Sudan,Production,0
+Europe,Spain,Consumption, 9 767
+Europe,Spain,Production, 35 703
+Asia,Sri Lanka,Consumption,  11
+Asia,Sri Lanka,Production,0
+Asia,State of Palestine,Consumption,0
+Asia,State of Palestine,Production,0
+Africa,Sudan,Consumption,  3
+Africa,Sudan,Production,0
+America,Suriname,Consumption,  9
+America,Suriname,Production,0
+Europe,Sweden,Consumption, 1 993
+Europe,Sweden,Production,0
+Europe,Switzerland,Consumption, 2 372
+Europe,Switzerland,Production,  992
+Asia,Syrian Arab Republic,Consumption,  1
+Asia,Syrian Arab Republic,Production,0
+Asia,Tajikistan,Consumption,  4
+Asia,Tajikistan,Production,  2
+Africa,"Tanzania, the United Republic of",Consumption,  29
+Africa,"Tanzania, the United Republic of",Production,0
+Asia,Thailand,Consumption,  10
+Asia,Thailand,Production,0
+Asia,Timor-Leste,Consumption,0
+Asia,Timor-Leste,Production,0
+Africa,Togo,Consumption,0
+Africa,Togo,Production,0
+Oceania,Tonga,Consumption,  1
+Oceania,Tonga,Production,0
+America,Trinidad and Tobago,Consumption,  11
+America,Trinidad and Tobago,Production,0
+Africa,Tunisia,Consumption,  173
+Africa,Tunisia,Production,  350
+Asia,Turkmenistan,Consumption,  502
+Asia,Turkmenistan,Production,  498
+Oceania,Tuvalu,Consumption,0
+Oceania,Tuvalu,Production,0
+Africa,Uganda,Consumption,  12
+Africa,Uganda,Production,0
+Europe,Ukraine,Consumption, 1 084
+Europe,Ukraine,Production,  660
+Asia,United Arab Emirates,Production,0
+Europe,United Kingdom,Consumption, 12 834
+Europe,United Kingdom,Production,  91
+America,United States of America,Consumption, 34 344
+America,United States of America,Production, 22 385
+America,Uruguay,Consumption,  591
+America,Uruguay,Production,  756
+Asia,Uzbekistan,Consumption,  163
+Asia,Uzbekistan,Production,  218
+Oceania,Vanuatu,Consumption,  6
+Oceania,Vanuatu,Production,0
+America,Venezuela,Consumption,  24
+America,Venezuela,Production,0
+Asia,Vietnam,Consumption,  58
+Asia,Vietnam,Production,0
+America,Virgin Islands,Production,0
+Asia,Yemen,Consumption,0
+Asia,Yemen,Production,0
+Africa,Zambia,Consumption,  27
+Africa,Zambia,Production,0
+Africa,Zimbabwe,Consumption,  22
+Africa,Zimbabwe,Production,  14
